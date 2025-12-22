@@ -41,7 +41,7 @@ This project aims to identify **key drivers of churn, high-risk customer segment
     * Longer customer tenure
 
 
-🎯 Product Recommendations
+## 🎯 Product Recommendations
 * Incentivize customers to move from month-to-month to long-term contracts
 * Promote auto-pay methods over electronic checks
 * Improve onboarding and service quality for fiber optic customers
