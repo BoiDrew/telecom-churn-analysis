@@ -27,7 +27,7 @@ This project aims to identify **key drivers of churn, high-risk customer segment
 * Customers with higher monthly charges are more likely to churn
 
 
-# 🤖 Predictive Modeling
+## 🤖 Predictive Modeling
 * Built an **interpretable Logistic Regression model**
 * **ROC AUC: 0.84**
 * Key churn drivers identified:
