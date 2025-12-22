@@ -54,6 +54,7 @@ This project aims to identify **key drivers of churn, high-risk customer segment
 This dashboard highlights high-risk churn segments and provides actionable product recommendations.
 
 ## 📁 Project Structure
+```
 telecom-churn-analysis/
 │
 ├── data/
@@ -67,7 +68,7 @@ telecom-churn-analysis/
 │   └── churn_model.ipynb
 │
 └── README.md
-
+```
 
 ## 🚀 Outcome
 
