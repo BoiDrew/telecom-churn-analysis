@@ -59,7 +59,6 @@ telecom-churn-analysis/
 │
 ├── data/
 │   ├── Telco_customer_churn.csv
-│   ├── Telco_customer_churn.xlsx
 │   └── Telco_customer_churn_cleaned.csv
 │
 ├── notebooks/
