@@ -47,6 +47,32 @@ This project aims to identify **key drivers of churn, high-risk customer segment
 * Improve onboarding and service quality for fiber optic customers
 * Target high-risk customers early in their lifecycle with retention offers
   
+## 💡 Business Recommendations
+Based on the exploratory analysis and predictive modeling results, the following actions are recommended to reduce customer churn and improve retention:
+
+1. **Incentivize Long-Term Contracts**
+   - Customers on month-to-month contracts show significantly higher churn.
+   - Introduce discounts, loyalty rewards, or bundled offers to encourage migration to one-year and two-year contracts.
+
+2. **Promote auto-pay methods**
+   - Customers using electronic check payments have the highest churn rate.
+   - Promote auto-pay options (credit card or bank transfer) through incentives and improved billing UX.
+
+3. **Improve Fiber Optic Customer Experience**
+   - Fiber optic internet service is the strongest churn risk driver.
+   - Investigate pricing, service quality, and customer support issues for fiber customers.
+   - Implement targeted retention campaigns for this segment.
+
+4. **Target High-Risk Customers Early**
+   - Short customer tenure and higher monthly charges are associated with increased churn.
+   - Deploy proactive retention offers during the first 6–12 months of the customer lifecycle.
+
+5. **Segment-Based Retention Strategy**
+   - Senior customers show elevated churn risk.
+   - Design simplified plans, clearer communication, or dedicated support for this demographic.
+
+These recommendations can be used to guide **pricing strategy, product improvements, and targeted retention initiatives**, helping reduce churn and increase customer lifetime value.
+
 
 ## 📊 Tableau Dashboard
 🔗 [View Interactive Dashboard](https://public.tableau.com/views/Book1_17662637779280/TelecomCustomerChurnProductInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
